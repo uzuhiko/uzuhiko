@@ -1,10 +1,9 @@
 ### Languages  
 
--JavaScript: Intermediate
--C++: Intermediate
--C#: Basics
--Python: Intermediate
--PHP: Basics
+-JavaScript Intermediate  
+-C++: Basics  
+-Python: Intermediate  
+-PHP: Basics  
 
 ### Operating Systems  
 
