@@ -1,6 +1,7 @@
 ### Languages  
 
--JavaScript Intermediate  
+-JavaScript: Intermediate  
+-Java: Basics  
 -C++: Basics  
 -Python: Intermediate  
 -PHP: Basics  
