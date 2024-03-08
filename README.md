@@ -8,9 +8,9 @@
 
 ### Operating Systems  
 
--Windows(10): Very experienced  
+-Windows(10): Advanced
 
--Linux(Ubuntu): Intermediate  
+-Linux(Ubuntu): Intermediate
 
 ### Projects  
 
