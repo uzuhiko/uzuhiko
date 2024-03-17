@@ -28,12 +28,3 @@
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=uzuhiko&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
-
-
-## Activity On GitHub
-
-<p align="center">
-  <a href="https://github.com/uzuhiko">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uzuhiko&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
