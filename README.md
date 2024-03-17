@@ -22,7 +22,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/uzuhiko"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,photoshop,css,html,js,aftereffects,cpp,javascript,js,ubuntu,window"> </a> </p>
+<p align="left"> <a href="https://github.com/uzuhiko"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,aftereffects,photoshop,css,html,js,cpp,java,ubuntu,window"> </a> </p>
 
 ## My Stats:
 <p align="center">
