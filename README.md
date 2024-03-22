@@ -1,4 +1,6 @@
-## Introduction
+```zsh
+> Introduction
+```
 
 <h3 align="center">Yo!</h3>
 
