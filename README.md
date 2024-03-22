@@ -18,7 +18,7 @@
 > Profile Views
 ```
 
-
+```csharp
   <table>
     <tr>
       <th>Total Count</th>
@@ -29,7 +29,8 @@
       </td>
     </tr>
   </table>
-  
+```
+
 ```zsh
 > Languages and Tools
 ```
