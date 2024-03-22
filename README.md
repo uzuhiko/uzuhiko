@@ -3,14 +3,16 @@
 ```
 
 ```csharp
-Yo!
+> Yo!
 ```
 
 ```zsh
 > Bio
 ```
 
-- 💻 Coding enjoyer
+```csharp
+> 💻 Coding enjoyer
+```
 
 ```zsh
 > Profile Views
