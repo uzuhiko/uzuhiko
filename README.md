@@ -2,7 +2,9 @@
 > Introduction
 ```
 
-<h3 align="center">Yo!</h3>
+```csharp
+Yo!
+```
 
 ```zsh
 > Bio
