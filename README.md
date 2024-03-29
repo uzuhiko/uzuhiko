@@ -7,7 +7,7 @@
 </h1>
 
 ```zsh
-> 📝 Bio
+> 📝Bio
 ```
 
 ```csharp
