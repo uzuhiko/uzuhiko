@@ -11,7 +11,12 @@
 ```
 
 ```csharp
-> 💻 Coding enjoyer
+> Age: 21
+> Height: 6'3
+> Sex: Male
+> Education: 3 years (Software developer)
+> Hobby: Gaming and coding
+> “Creating my own little digital paradise.” - 💻 Coding enjoyer
 ```
 
 ```zsh
