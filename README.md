@@ -1,5 +1,5 @@
 ```zsh
-> 📌Introduction
+> 📖Introduction
 ```
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
 ```zsh
-> 📝Bio
+> 📌Bio
 ```
 
 ```csharp
@@ -20,7 +20,7 @@
 ```
 
 ```zsh
-> Profile Views
+> 📌Profile Views
 ```
 
   <table>
@@ -35,13 +35,13 @@
   </table>
 
 ```zsh
-> Languages and Tools
+> 📌Languages and Tools
 ```
 
 <p align="left"> <a href="https://github.com/uzuhiko"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,aftereffects,photoshop,css,html,js,cpp,java,ubuntu,windows"> </a> </p>
 
 ```zsh
-> My stats:
+> 📌My stats:
 ```
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=uzuhiko&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&title_color=FFFFFF&text_color=918cf2&icon_color=FFFFFF&bg_color=000000">
