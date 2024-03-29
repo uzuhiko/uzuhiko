@@ -38,7 +38,7 @@
 > 📌Languages and Tools
 ```
 
-<p align="left"> <a href="https://github.com/uzuhiko"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,aftereffects,photoshop,css,html,js,cpp,java,ubuntu,windows,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/uzuhiko"><img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,aftereffects,photoshop,css,html,js,cpp,java,nodejs,ubuntu,windows"> </a> </p>
 
 ```zsh
 > 📌My stats:
