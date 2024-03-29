@@ -6,10 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Lato&size=35&center=true&vCenter=true&&color=918CF0&width=500&height=70&duration=4000&lines=Yo!;+I'm+Uzuhiko⚡;" />
 </h1>
 
-```csharp
-> Yo!
-```
-
 ```zsh
 > Bio
 ```
