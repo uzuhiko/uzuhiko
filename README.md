@@ -39,4 +39,4 @@
 > My stats:
 ```
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=uzuhiko&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&title_color=FFFFFF&text_color=918cf2&bg_color=000000">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=uzuhiko&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&title_color=FFFFFF&text_color=918cf2&icon_color=FFFFFF&bg_color=000000">
