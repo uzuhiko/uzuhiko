@@ -45,3 +45,12 @@
 ```
 
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=uzuhiko&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&title_color=FFFFFF&text_color=918cf2&icon_color=FFFFFF&bg_color=000000">
+
+```zsh
+> 📌My contributions:
+```
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/uzuhiko/uzuhiko/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
